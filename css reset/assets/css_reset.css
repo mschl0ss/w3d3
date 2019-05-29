@@ -1,0 +1,26 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0px;
+  font: inherit;
+}
+
+body {
+  line-height: 1.5;  
+}
+
+li {
+  list-style-type: none;
+}
+
+/* figure {
+  width: 200px;
+} */
+
+img {
+ 
+  width: inherit;
+}
+
+
